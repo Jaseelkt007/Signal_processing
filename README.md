@@ -1,2 +1,4 @@
 # Signal_processing
-sharing my idea on digital signal processing, statistical and adaptive signal processing --> mainly basic processes
+signal processing Basics --> So far discussed about
+1. Fourier analysis : how it is used for denoising, Spectogram, Melspectogram
+2. Image Compression : comparing image compression using FFT, DCT and different techniques used 
